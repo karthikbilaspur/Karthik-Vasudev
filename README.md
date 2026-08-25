@@ -1,36 +1,26 @@
 # Hi, I'm V. Karthik 👋
 
-**Full Stack Developer | Python + Vanilla JavaScript | No-Framework Builder**
+Full-stack dev | Python + React | Building 100 projects in public
 
+I'm a developer from Bangalore focused on practical apps - from Tkinter desktop tools to React web apps and ML prototypes. I believe in learning by shipping.
 
-### 🧱 My Challenge
-- **100** pure HTML pages
-- **100** HTML + CSS projects  
-- **200** HTML + CSS + JS projects (beginner → advanced)
-- **60+** Python projects (Tkinter, Turtle, CLI)
+### 🔥 Featured Work
 
-**Total: 400+ projects, 0 frameworks.**
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **[Tkinter - 35+ GUI Apps](https://github.com/karthikbilaspur/Tkinter)** | Billing systems, AI chat, Face Recognition | Python, Tkinter, OpenCV | - |
+| **[100Days100Projects](https://github.com/karthikbilaspur/100Days100Projects)** | 100 frontend mini-apps in 100 days | HTML, CSS, JS | [Demo](https://karthikbilaspur.github.io/100Days100Projects/) |
+| **[react-30-monorepo](https://github.com/karthikbilaspur/react-30-monorepo)** | 30 React apps in 30 days | React, Turborepo, TS | - |
+| **[Machine Learning](https://github.com/karthikbilaspur/machinelearninganddatascience)** | ML models & Data Science notebooks | Python, Scikit-Learn | - |
 
-### 🚀 Now Building — Vanilla JS Utility OS
-Combining my 200 JS projects into **20 Utility Apps** (10 tools each)
+### 🛠️ Tech Stack
+`Python | JavaScript | React | HTML/CSS | Tkinter | Flask | OpenCV | Git`
 
-- 📝 Text Tools, 🖼️ Image Tools, 🛠️ Dev Tools, 🧮 Daily Tools...
-- 3 Master Pages: HTML Master | CSS Master | JS Master
-- Live: `your-vercel-link.vercel.app` (replace with yours)
+### 📈 Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikbilaspur)
 
-> Philosophy: If you can build it without a framework, you understand it.
+### 📫 Reach me
+- LinkedIn: [https://www.linkedin.com/in/vasudev-karthik-b889272a7/]
+- Email: [karthikv81291@gmail.com]
 
-### 🐍 Python Track
-- **35+ Tkinter GUI Apps:** AI Chat, Face Recognition, Billing Systems
-- **24+ Turtle Projects:** Games, Physics Sims, OOP Visuals
-- **Beginner → Medium:** 50+ CLI & API projects
-
-### 📊 Stats
-- 54 Repos | 84 Stars | Building in public since 2018
-- 40 LinkedIn posts documenting the journey
-
-### 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/vasudev-karthik-b889272a7/
-- Email: Karthikv81291@gmail.com
-
-⭐️ Start here: `100Days100Projects` → My flagship OS build# Karthik-Vasudev
+> Currently breaking my `pythonproject` mega-repo into standalone projects. Follow along!
